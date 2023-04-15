@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspHeathCheck", "AspHeathCheck\AspHeathCheck.csproj", "{60D0C637-0528-40B2-9135-7DC0FDF5239E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D0C637-0528-40B2-9135-7DC0FDF5239E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D0C637-0528-40B2-9135-7DC0FDF5239E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D0C637-0528-40B2-9135-7DC0FDF5239E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D0C637-0528-40B2-9135-7DC0FDF5239E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F5509E3-6F95-4E11-8FEB-72C7456F66A1}
+	EndGlobalSection
+EndGlobal
